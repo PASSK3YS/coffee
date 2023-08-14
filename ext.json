@@ -1,0 +1,19 @@
+{
+  "identifier": "xyz.m00t.coffee",
+  "name": "Coffee",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "A coffee inspired theme for Standard Notes",
+  "url": "",
+  "download_url": "",
+  "marketing_url": "https://github.com/m00t316/coffee",
+  "latest_url": "",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#3C2A21",
+    "foreground_color": "#D5CEA3",
+    "border_color": "#080604"
+  }
+}
