@@ -3,6 +3,7 @@
   "name": "Coffee",
   "content_type": "SN|Theme",
   "area": "themes",
+  "isDark": "true",
   "version": "1.0",
   "description": "A coffee inspired theme for Standard Notes",
   "url": "https://cdn.jsdelivr.net/gh/m00t316/coffee@v1.0/src/main.css",
