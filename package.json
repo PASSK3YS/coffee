@@ -1,12 +1,12 @@
 {
   "name": "Coffee",
-  "version": "1.1",
+  "version": "2.0",
   "main": "src/main.css",
   "sn": {
     "main": "src/main.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/m00t316/coffee.git"
+    "url": "git://github.com/PASSK3YS/coffee.git"
   }
 }
