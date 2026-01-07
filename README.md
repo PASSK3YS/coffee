@@ -8,5 +8,5 @@ To install, go to preferences > general > advanced options
 
 Paste the following link in the text box: 
 ```
-https://notes.kieran.omg.lol/p/ufaeQELob3
+[https://notes.kieran.omg.lol/p/ufaeQELob3](https://notes.colfer.net/p/ufaeQELob3)
 ```
