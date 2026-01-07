@@ -1,6 +1,6 @@
 :root {
   --background-1: #231713;
-  --background-2: #1A110E;
+  --background-2: #120A08;
   --background-3: #3E2C26;
   --border-color: #120B09;
   
@@ -51,7 +51,7 @@
   --sn-stylekit-input-placeholder-color: var(--foreground-2);
   --sn-stylekit-input-border-color: var(--highlight);
 
-  --sn-stylekit-scrollbar-thumb-color: var(--background-3);
+  --sn-stylekit-scrollbar-thumb-color: #5D473B;
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
 
   --sn-stylekit-theme-type: dark;
@@ -63,7 +63,7 @@
   --sn-stylekit-passive-color-3: var(--border-color);
   --sn-stylekit-passive-color-4: var(--background-2);
   
-  --sn-stylekit-passive-color-4-opacity-variant: var(--background-3);
+  --sn-stylekit-passive-color-4-opacity-variant: #5D473B;
   --sn-stylekit-passive-color-5: var(--background-3);
 
   --sn-stylekit-passive-color-super-light: var(--foreground-2);
